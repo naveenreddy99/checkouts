@@ -1,3 +1,9 @@
-ntp config - created by master
-10.432.34.2
+<<<<<<< HEAD
 
+||||||| merged common ancestors
+=======
+ntp.conf -- created by Hari
+
+10.3.4.5
+10.3.4.53
+>>>>>>> Hari
